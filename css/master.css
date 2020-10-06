@@ -26,6 +26,27 @@
   width: 100px;
 }
 
+.w_80cent {
+  width: 80%;
+}
+
+/* margin */
+.m_10 {
+  margin: 10px;
+}
+
+.m_top50 {
+  margin-top: 50px;
+}
+
+.m_top20 {
+  margin-top: 20px;
+}
+
+.m_auto {
+  margin: auto;
+}
+
 /*color */
 
 .w-text {
@@ -77,19 +98,6 @@
 
 .glyphicon-star {
   font-size: 4rem;
-}
-
-/* margin */
-.m_10 {
-  margin: 10px;
-}
-
-.m_top50 {
-  margin-top: 50px;
-}
-
-.m_top20 {
-  margin-top: 20px;
 }
 
 /* section 2 */
