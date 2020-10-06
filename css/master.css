@@ -104,7 +104,6 @@
 
 .photo {
   width: 90%;
-  background-size: cover;
   border-radius: 5px;
 }
 
@@ -112,4 +111,16 @@
 
 .glyphicon-circle-arrow-down {
   font-size: 2rem;
+}
+
+
+
+@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {
+  .inline_md {
+    display: inline-block;
+  }
+
+  .w_md_50 {
+    width: 400px;
+  }
 }
